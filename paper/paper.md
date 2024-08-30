@@ -1,33 +1,43 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'BioHackJP24 report: An InterMine for the IMG/VR database'
+title_short: 'BioHackJP24: IMG/VR InterMine'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - virology
+  - databases
+  - genomics
+  - ecology
+  - microbiology
 authors:
-  - name: First Author
+  - name: Russell Neches
+    orcid: 0000-0002-2055-8381
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Manabu Ishii
+    orcid: 0000-0002-5843-4712
     affiliation: 2
+  - name: Gos Micklem
+    orcid: 0000-0002-6883-6168
+    affiliation: 3,4
 affiliations:
-  - name: First Affiliation
+  - name: Kyoto University, Institute for Chemical Research
     index: 1
-  - name: Second Affiliation
+  - name: Genome Analytics Japan Inc.
     index: 2
-date: 8 November 2023
+  - name: University of Cambridge
+    index: 3
+  - name: DBCLS
+    index: 4
+date: 30 September 2024
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
+event: BH24JP
+biohackathon_name: "BioHackathon Japan 2024"
 biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
+biohackathon_location: "Fukushima, Japan 2024"
 group: Project 26
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/biohackathon-japan/bh24-viral-phylogenomics
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Neches, Ishii, Micklem
 ---
 
 
