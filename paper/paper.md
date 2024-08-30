@@ -17,6 +17,11 @@ authors:
   - name: Gos Micklem
     orcid: 0000-0002-6883-6168
     affiliation: 3,4
+  - name: Tomoya Tanjo
+    orcid: 0000-0002-4421-9659
+    affiliatnion: 5,6
+  - name: Yui Asano
+    Affiliation: 7
 affiliations:
   - name: Kyoto University, Institute for Chemical Research
     index: 1
@@ -26,6 +31,12 @@ affiliations:
     index: 3
   - name: DBCLS
     index: 4
+  - name: DDBJ Center (DDBJ)
+    index: 5
+  - name: BioData Science Initiative (BSI)
+    index: 6
+  - name: Swallow Design Studio Inc.
+    index: 7
 date: 2024-08-31
 cito-bibliography: paper.bib
 event: BH24JP
@@ -86,10 +97,11 @@ Possible CiTO typing annotation include:
 
 # Discussion
 
-...
+Future objectives :
+
+Predicted genes, gene annotations with PFAM, NCVOG viral ortholog groups, GCVOG viral ortholog groups, GO and perhaps KEGG.
 
 ## Acknowledgements
 
-...
-
+The authors would like to thank Jerven Bolleman in particular for asking the gently pointed questions that ultimately set the direction for this project, Ankur Kumar for his help and support, Micheal Crusoe for bringing us together, and the DBCLS staff for hosting, organizing supporting the event that made this collaboration possible.
 ## References
