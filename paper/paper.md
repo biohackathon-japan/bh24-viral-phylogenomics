@@ -45,7 +45,7 @@ biohackathon_url: https://biohackathon-europe.org/
 biohackathon_location: Fukushima, Japan 2024
 group: Viral Phylogenomics
 git_url: https://github.com/biohackathon-japan/bh24-viral-phylogenomics
-authors_short: Neches, Ishii, Micklem
+authors_short: Neches, Ishii, Micklem, Tanjo, Asano
 ---
 
 
@@ -97,11 +97,26 @@ Possible CiTO typing annotation include:
 
 # Discussion
 
-Future objectives :
+## Challenges
+
+The InterMine project is historically rooted the science of model organisms, such as *H. sapens*, *M. musculus*, *D. melanogaster*, and *C. elegans*. Consequently, many of the provided data models in InterMine are built to support the biological features of organisms belonging to these phylogenetic groups and data products developed by their respective research communities. Not only do the genomes of microorganisms and viruses exhibit different biological features, but they are obtained, sequenced and analyzed using different techniques, tools and statistical methods, often in the service of different research aims and scientific contexts. To accommodate viral MAGs (metagenomic assembled genomes), it is necessary to add some additional classes to InterMine's data model :
+
+- OTU (operational taxonomic unit)
+- Scaffold
+- Host
+
+Furthermore, some existing classes need to be extended or modified :
+
+- Genome chemistry : DNA or RNA
+- Genome topology : Linear, Circular, Endogenized
+
+Fortunately, because InterMine's data model is represented as an extendable schema, it is possible to implement these extensions without modification of its source code.
+
+## Future objectives
 
 Predicted genes, gene annotations with PFAM, NCVOG viral ortholog groups, GCVOG viral ortholog groups, GO and perhaps KEGG.
 
 ## Acknowledgements
 
-The authors would like to thank Jerven Bolleman in particular for asking the gently pointed questions that ultimately set the direction for this project, Ankur Kumar for his help and support, Micheal Crusoe for bringing us together, and the DBCLS staff for hosting, organizing supporting the event that made this collaboration possible.
+The authors would like to thank Jerven Bolleman in particular for asking the gently pointed questions that ultimately set the direction for this project, Ankur Kumar for his help and support, Micheal Crusoe for bringing us together, Yui Asano for joining us to make a logo for the project on extremely short notice, and the DBCLS staff for hosting, organizing supporting the event that made this collaboration possible.
 ## References
