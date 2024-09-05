@@ -92,4 +92,5 @@ Predicted genes, gene annotations with [PFAM](https://www.ebi.ac.uk/interpro/) [
 ## Acknowledgements
 
 The authors would like to thank Jerven Bolleman in particular for asking the gently pointed questions that ultimately set the direction for this project, Ankur Kumar for his help and support, Toshiaki Katayama and Micheal Crusoe for bringing us together, Yui Asano for joining us to make a logo for the project on extremely short notice, and the DBCLS staff for hosting, organizing supporting the event that made this collaboration possible.
+
 ## References
