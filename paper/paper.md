@@ -23,19 +23,19 @@ authors:
   - name: Yui Asano
     Affiliation: 7
 affiliations:
-  - name: Kyoto University, Institute for Chemical Research
+  - name: Kyoto University, Institute for Chemical Research, Japan
     index: 1
-  - name: Genome Analytics Japan Inc.
+  - name: Genome Analytics Japan Inc., Japan
     index: 2
-  - name: University of Cambridge
+  - name: University of Cambridge, England
     index: 3
-  - name: DBCLS
+  - name: Database Center for Life Science, Japan
     index: 4
-  - name: DDBJ Center (DDBJ)
+  - name: Bioinformation and DDBJ Center, Japan
     index: 5
-  - name: BioData Science Initiative (BSI)
+  - name: BioData Science Initiative, Japan
     index: 6
-  - name: Swallow Design Studio Inc.
+  - name: Swallow Design Studio Inc., Japan
     index: 7
 date: 31st August 2024
 cito-bibliography: paper.bib
