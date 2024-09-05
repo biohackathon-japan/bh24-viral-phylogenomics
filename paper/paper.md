@@ -16,10 +16,10 @@ authors:
     affiliation: 2
   - name: Gos Micklem
     orcid: 0000-0002-6883-6168
-    affiliation: 3,4
+    affiliation: 3, 4
   - name: Tomoya Tanjo
     orcid: 0000-0002-4421-9659
-    affiliatnion: 5,6
+    affiliatnion: 5, 6
   - name: Yui Asano
     affiliation: 7
 affiliations:
