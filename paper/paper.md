@@ -19,7 +19,7 @@ authors:
     affiliation: 3, 4
   - name: Tomoya Tanjo
     orcid: 0000-0002-4421-9659
-    affiliatnion: 5, 6
+    affiliation: 5, 6
   - name: Yui Asano
     affiliation: 7
 affiliations:
