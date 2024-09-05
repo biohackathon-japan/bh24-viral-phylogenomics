@@ -23,21 +23,21 @@ authors:
   - name: Yui Asano
     affiliation: 7
 affiliations:
-  - name: Kyoto University, Institute for Chemical Research
+  - name: Kyoto University, Institute for Chemical Research, Japan
     index: 1
-  - name: Genome Analytics Japan Inc.
+  - name: Genome Analytics Japan Inc., Japan
     index: 2
-  - name: University of Cambridge
+  - name: University of Cambridge, England
     index: 3
-  - name: DBCLS
+  - name: Database Center for Life Science, Japan
     index: 4
-  - name: DDBJ Center (DDBJ)
+  - name: Bioinformation and DDBJ Center, Japan
     index: 5
-  - name: BioData Science Initiative (BSI)
+  - name: BioData Science Initiative, Japan
     index: 6
-  - name: Swallow Design Studio Inc.
+  - name: Swallow Design Studio Inc., Japan
     index: 7
-date: 2024-08-31
+date: 31st August 2024
 cito-bibliography: paper.bib
 event: BH24JP
 biohackathon_name: BioHackathon Japan 2024
@@ -92,5 +92,5 @@ Predicted genes, gene annotations with [PFAM](https://www.ebi.ac.uk/interpro/) [
 # Acknowledgements
 
 The authors would like to thank Jerven Bolleman in particular for asking the gently pointed questions that ultimately set the direction for this project, Ankur Kumar for his help and support, Toshiaki Katayama and Micheal Crusoe for bringing us together, Yui Asano for joining us to make a logo for the project on extremely short notice, and the DBCLS staff for hosting, organizing supporting the event that made this collaboration possible.
-# References
 
+## References
