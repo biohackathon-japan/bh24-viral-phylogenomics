@@ -37,7 +37,7 @@ affiliations:
     index: 6
   - name: Swallow Design Studio Inc.
     index: 7
-date: 2024-08-31
+date: 31st August 2024
 cito-bibliography: paper.bib
 event: BH24JP
 biohackathon_name: BioHackathon Japan 2024
