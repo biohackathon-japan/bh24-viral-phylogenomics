@@ -21,7 +21,7 @@ authors:
     orcid: 0000-0002-4421-9659
     affiliatnion: 5,6
   - name: Yui Asano
-    Affiliation: 7
+    affiliation: 7
 affiliations:
   - name: Kyoto University, Institute for Chemical Research
     index: 1
@@ -65,7 +65,7 @@ In addition to InterMine itself, BlueGenes provides a modern, module user interf
 
 ## The shortest path
 
-
+InterMine has a lot of moving parts, and so a minimal configuration is useful to get the dependencies sorted out and the software up and running. We'll use build off of the Malaria 
 
 
 # Discussion
@@ -89,7 +89,8 @@ Fortunately, because InterMine's data model is represented as an extendable sche
 
 Predicted genes, gene annotations with [PFAM](https://www.ebi.ac.uk/interpro/) [@usesDataFrom:paysan2023interpro], [NCVOG viral ortholog groups](https://github.com/faylward/ncldv_markersearch) [@usesDataFrom:moniruzzaman2020dynamic], VOGDB viral ortholog group database [@usesDataFrom:trgovec2024vogdb], [GO](https://www.geneontology.org/) [@usesDataFrom:ashburner2000gene; @usesDataFrom:consortium2023gene] and [KEGG](https://www.genome.jp/kegg/pathway.html) [@usesDataFrom:kanehisa2016kegg].
 
-## Acknowledgements
+# Acknowledgements
 
 The authors would like to thank Jerven Bolleman in particular for asking the gently pointed questions that ultimately set the direction for this project, Ankur Kumar for his help and support, Toshiaki Katayama and Micheal Crusoe for bringing us together, Yui Asano for joining us to make a logo for the project on extremely short notice, and the DBCLS staff for hosting, organizing supporting the event that made this collaboration possible.
-## References
+# References
+
