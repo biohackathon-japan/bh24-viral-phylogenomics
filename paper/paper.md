@@ -59,6 +59,14 @@ As part of the BioHackathon Japan 2024, we report the development `vrmine`, an e
 
 # Results
 
+While there are several documented ways to install InterMine, we recommend using a managed, containerized procedure using [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/). Docker Compose defines and runs multi-container Docker applications, managing an application stack (multiple containers with their associated storage volumes and network interfaces) in a single YAML configuration file. This approach reflects the way InterMine would be deployed in production. InterMine itself uses [Gradle](https://gradle.org) for build automation, and so installing, configuring and deploying InterMine consists mostly of orchestrating Gradle by means of Docker.
+
+In addition to InterMine itself, BlueGenes provides a modern, module user interface for InterMine. BlueGenes is built with [Clojure](https://clojure.org/), a dynamic, general-purpose dialect of Lisp that runs on the Java Virtual Machine (JVM), and uses [Leiningen](https://leiningen.org/) for build automation and dependency management.
+
+## The shortest path
+
+
+
 
 # Discussion
 
