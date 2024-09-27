@@ -142,11 +142,11 @@ mkdir docker-intermine-gradle/data/mine/data/virus/genome/gff
 cp all_uvigs.4.*.gff3 docker-intermine-gradle/data/mine/data/virus/genome/gff
 ```
 
-Next, create project.xml
+Next, create `project.xml`
 
 FIXME : This step needs to follow the same names as the above steps (YourMine, vs. virus)
 
-FIXME : What lines were edited, and why?
+FIXME : What lines were edited, and why? This should probably be a diff
 
 ```xml
 <project type="bio">
@@ -216,7 +216,7 @@ FIXME : add screenshot?
 FIXME : how do we see that data is loaded using the web interface?
 ## Loading IMG/VR data into Intermine
 
-To make this actually useful, we made a preliminary effort to 
+To make this actually useful, we made a preliminary effort to load IMG/VR into Intermine. IMG/VR is provided as a pair of FASTA files, one containing viral contigs, and the other containing predicted viral proteins, and a pair of TSV files containing the sequence metadata and predicted hosts.
 
 ```console=
 mkdir work
